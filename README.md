@@ -1,2 +1,2 @@
 # SampleProj
-Trail version project
+Trail version project created for testing purpose
